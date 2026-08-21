@@ -15,10 +15,6 @@ set(OCCT_STEPConstruct_FILES
   STEPConstruct_ExternRefs.hxx
   STEPConstruct_Part.cxx
   STEPConstruct_Part.hxx
-  STEPConstruct_RenderingProperties.cxx
-  STEPConstruct_RenderingProperties.hxx
-  STEPConstruct_Styles.cxx
-  STEPConstruct_Styles.hxx
   STEPConstruct_Tool.cxx
   STEPConstruct_Tool.hxx
   STEPConstruct_Tool.lxx

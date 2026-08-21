@@ -1,6 +1,5 @@
 # Auto-generated list of packages for TKDESTEP toolkit
 set(OCCT_TKDESTEP_LIST_OF_PACKAGES
-  STEPCAFControl
   StepAP214
   RWStepAP214
   StepAP203

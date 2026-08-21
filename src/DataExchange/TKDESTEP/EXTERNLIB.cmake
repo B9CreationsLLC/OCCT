@@ -7,11 +7,7 @@ set(OCCT_TKDESTEP_EXTERNAL_LIBS
   TKXSBase
   TKTopAlgo
   TKG2d
-  TKCAF
-  TKCDF
-  TKLCAF
   TKG3d
-  TKXCAF
   TKShHealing
   TKernel
   TKBRep
